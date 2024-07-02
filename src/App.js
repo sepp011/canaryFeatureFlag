@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
         <Flags authorizedFlags={['isCanary']}
-          renderOn={(authorizedFlags) => <h1>Canary enviro</h1>}
+          renderOn={(authorizedFlags) => <h1>Canary Environment My Fella</h1>}
         />
       </header>
     </div>
